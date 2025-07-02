@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+.git/
+*.user
+*.suo
+*.vcxproj.user
+*.ncb
+*.sdf
+*.opensdf
+*.db
+*.log
+Debug/
+Release/
+x64/
+ipch/
+*.exe
+*.obj
+*.pdb
